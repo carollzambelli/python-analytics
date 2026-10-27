@@ -30,8 +30,8 @@ consegue repetir para a sua cidade** (ou para o destino das suas próximas féri
 
 1. Fundamentos de Python - notebooks 01
 2. Manipulação de Dados com pandas - notebooks 02 e 03
-3. Análise Exploratória - notebooks 04 e 05
-4. Modelagem de Dados - notebooks 06
+3. Análise Exploratória - notebooks 04
+4. Modelagem de Dados - notebooks 05
 
 ## Tutoriais: instalando e configurando Python + VSCode
 

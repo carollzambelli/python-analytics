@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+*.csv
+*.json
+*.txt
+
+# Modelos treinados (notebook 05) — arquivos grandes, gerados localmente
+models/
